@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JasonAK19
-- 👀 I’m interested in ... Computer Science, mainly python and C++
-- 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... jasona2@umbc.edu
+- 👀 I’m interested in Computer Science, mainly python and C++
+- 🌱 I’m currently learning C++, C#, Unity and Unreal Engine
+- 📫 How to reach me ... jasona2@umbc.edu, @JasonAk19 on Instagram
 
 <!---
 JasonAK19/JasonAK19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
