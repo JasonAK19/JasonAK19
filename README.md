@@ -19,13 +19,6 @@ I'm a Computer Science enthusiast with a keen interest in Python and C++. I'm cu
 
 ---
 
-## 🌟 Featured Projects
-
-- **[Project 1](https://github.com/JasonAK19/Project1)**: A brief description of Project 1.
-- **[Project 2](https://github.com/JasonAK19/Project2)**: A brief description of Project 2.
-
----
-
 ## 📊 GitHub Stats
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonAK19&show_icons=true&theme=dark)
