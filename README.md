@@ -1,6 +1,6 @@
 # Hello, I'm JasonAK19 👋
 
-I'm a Computer Science enthusiast with a keen interest in Python and C++. I'm currently diving deep into C++, C#, Unity, and Unreal Engine.
+I'm a Computer Science student with a interest in software engineering, machine learning and data science. 
 
 ---
 
@@ -14,8 +14,8 @@ I'm a Computer Science enthusiast with a keen interest in Python and C++. I'm cu
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++, C#
-- **Tools:** Unity, Unreal Engine, GitHub
+- **Languages:** Python, C++, C#, React etc.
+- **Tools:** Unity, Unreal Engine, GitHub, MongoDB, SQL etc.
 
 ---
 
